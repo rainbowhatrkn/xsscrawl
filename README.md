@@ -96,7 +96,7 @@ Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plu
 
 ## 💬 Contact
 
-Pour toute question, suggestion ou problème, n'hésitez pas à ouvrir une issue ou à me contacter directement via [email](mailto:your.email@example.com).
+Pour toute question, suggestion ou problème, n'hésitez pas à ouvrir une issue ou à me contacter directement via [email](mailto:mdelaclaire@gmail.com).
 
 ---
 

