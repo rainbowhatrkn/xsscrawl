@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+colorama
+questionary
+tqdm
+pyfiglet
+termcolor

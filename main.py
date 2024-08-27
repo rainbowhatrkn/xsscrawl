@@ -5,7 +5,7 @@ import os
 import colorama
 from colorama import Fore
 import questionary
-from banner.banner import fun_prompt
+from banner.ban import *
 from tqdm import tqdm
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import csv

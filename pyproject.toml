@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "repl-nix-xsscrawl"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+requests = "^2.32.3"
+tqdm = "^4.66.5"
+banner = "^0.0.2"
+beautifulsoup4 = "^4.12.3"
+colorama = "^0.4.6"
+questionary = "^2.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
