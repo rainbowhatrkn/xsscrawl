@@ -19,8 +19,8 @@ Bienvenue dans **l'outil interactif de test XSS** modifié par TRHACKNON. Ce pro
 <summary><strong>1. Cloner le dépôt</strong></summary>
 
 ```bash
-git clone https://github.com/rainbowhatrkn/xsscrawl.git
-cd xsscrawl
+git clone https://github.com/tucommenceapousser/trknxsscrawl.git
+cd trknxsscrawl
 ```
 
 </details>
